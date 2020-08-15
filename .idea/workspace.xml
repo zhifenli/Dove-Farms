@@ -1,7 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76e999cf-55b4-4b09-ad69-0efcd092e0ef" name="Default Changelist" comment="" />
+    <list default="true" id="76e999cf-55b4-4b09-ad69-0efcd092e0ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dovefarms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/News.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our-wines.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/brushed_alu_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/darth_stripe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/elegant_grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/fabric_plaid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/flowers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/soft_wallpaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/stucco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/texturetastic_gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/whitey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bg/xv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/caption7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cusstom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/toucheffects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logo/logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/cabernet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/chardonnay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/chenin-blanc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/merlot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/sauvignon-blanc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-our-wines/syrah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa4.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa5.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa6.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa7.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-psd/napa8.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photos-winery/napa8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/press.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/40_Dark_social_icons-set-PIXEDEN/facebook_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/40_Dark_social_icons-set-PIXEDEN/flickr_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/40_Dark_social_icons-set-PIXEDEN/tumblr_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/40_Dark_social_icons-set-PIXEDEN/twitter02_dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Free-Sleek-Social-Media-Icon-Set-2012/Facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Free-Sleek-Social-Media-Icon-Set-2012/Flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Free-Sleek-Social-Media-Icon-Set-2012/Tumblr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Free-Sleek-Social-Media-Icon-Set-2012/Twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Pace_Social_Icon_Set/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Pace_Social_Icon_Set/flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Pace_Social_Icon_Set/tumblr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Pace_Social_Icon_Set/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Picons_Social/social-003_twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Picons_Social/social-004_flickr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Picons_Social/social-006_facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/social-media/Picons_Social/social-015_tumblr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-our-wines.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-press.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-wine-club.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wine-club.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +147,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wine-club.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+            <state relative-caret-position="135">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,6 +176,7 @@
     <option name="width" value="980" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -145,9 +227,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -161,7 +242,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -371,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wine-club.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="27" column="76" selection-start-line="27" selection-start-column="76" selection-end-line="27" selection-end-column="76" />
+        <state relative-caret-position="135">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
         </state>
       </provider>
     </entry>
